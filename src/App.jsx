@@ -8,6 +8,7 @@ import Testimonials from './pages/Testimonials';
 import Publications from './pages/Publications';
 import Events from './pages/Events';
 import Contact from './pages/Contact';
+import './index.css';
 
 function App() {
   return (
